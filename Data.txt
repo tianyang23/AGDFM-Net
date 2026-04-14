@@ -1,5 +1,25 @@
 Regarding the datasets employed in this study: 
 
-1) For the public datasets utilized in the multi-center hepatic vessel segmentation task—specifically 3D-IRCADb (https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/) , MSD ( http://medicaldecathlon.com/), and LITS ( https://competitions.codalab.org/) ；source data should be obtained through their respective official repositories, and relevant publications must be cited as per their requirements. The pixel-level high-precision annotations for MSD and LiTS, which were refined by professional physicians, will be made available for use upon the formal publication of this paper, contingent on citing this study. As for the private dataset (PD), the pixel-level high-precision annotations have been made public. Original source files can be requested from the corresponding author via email after the publication of this research, provided the request is reasonable, ethical, and for non-commercial purposes.
+1) For the public datasets utilized in the multi-center hepatic vessel segmentation task; 
 
-2) For the multi-center coronary artery segmentation task, the source data and annotations for the public datasets utilized; specifically ImageCAS (https://www.kaggle.com/datasets/xiaoweixumedicalai/imagecas/), ASOCA (https://asoca.grand-challenge.org/), and CCA-200 (https://huggingface.co/datasets/MedHK23/CCA)—should be obtained through their respective official repositories, and the associated original publications must be cited in accordance with their requirements.
+specifically 3D-IRCADb (https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/) , 
+
+MSD ( http://medicaldecathlon.com/), 
+
+and LITS ( https://competitions.codalab.org/) ；
+
+source data should be obtained through their respective official repositories, and relevant publications must be cited as per their requirements. 
+
+The pixel-level high-precision annotations for MSD and LITS, which were refined by professional physicians, will be made available for use upon the formal publication of this paper, contingent on citing this study. 
+
+As for the private dataset (PD), the pixel-level high-precision annotations have been made public. 
+
+Original source files can be requested from the corresponding author via email after the publication of this research, provided the request is reasonable, ethical, and for non-commercial purposes.
+
+2) For the multi-center coronary artery segmentation task, the source data and annotations for the public datasets utilized; 
+
+specifically ImageCAS (https://www.kaggle.com/datasets/xiaoweixumedicalai/imagecas/), 
+
+ASOCA (https://asoca.grand-challenge.org/), 
+
+and CCA-200 (https://huggingface.co/datasets/MedHK23/CCA) should be obtained through their respective official repositories, and the associated original publications must be cited in accordance with their requirements.
